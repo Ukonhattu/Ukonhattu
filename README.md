@@ -5,7 +5,7 @@ I have also been a mentor, a teacer of game programming courses.
 
 And many more things...
 
-Currently in practice of the art of over engineering at MOOC-Center, University of Helsinki.
+Currently in practice of the art of overengineering at MOOC-Center, University of Helsinki.
 
 Feel free to poke around, but beware of the occasional bugs and smells.
 
