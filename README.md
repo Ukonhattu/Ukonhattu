@@ -1,7 +1,7 @@
 ## I have been expecting you
 I knew you would come here. Welcome traveller, to my little profile.
 I am a software wizard, a maker of all things code. Been learning since 2011, so I have picked up a few tricks on the way.
-I have also been a mentor, a teacer of game programming courses.
+I have also been a mentor, a teacher of game programming courses.
 
 And many more things...
 
